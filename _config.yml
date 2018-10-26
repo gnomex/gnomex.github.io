@@ -3,11 +3,31 @@ name: "Kenner Kliemann"
 description: "Aprendendo e compartilhando"
 meta_description: "Criando minha própria realidade"
 logo: 'assets/images/logo.png'
+lang: pt-br
 favicon: 'assets/images/logo.png'
 baseurl: 
 google_analytics: 'UA-128177289-1'
 disqus: 'kennerkliemann'
 mailchimp-list: ''
+
+twitter:
+  username: kennerkliemann
+  card: summary
+
+# facebook:
+#   app_id: 1234
+#   publisher: 1234
+#   admins: 1234
+
+social:
+  name: Kenner Kliemann
+  links:
+    - https://twitter.com/KennerKliemann
+    - https://www.facebook.com/kenner.kliemann
+    - http://br.linkedin.com/in/kennerkliemann
+    - https://github.com/gnomex
+
+github_username: gnomex
 
 # Authors
 authors:
