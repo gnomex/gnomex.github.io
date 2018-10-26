@@ -5,8 +5,8 @@ meta_description: "Criando minha própria realidade"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
-google_analytics: ''
-disqus: ''
+google_analytics: 'UA-128177289-1'
+disqus: 'kennerkliemann'
 mailchimp-list: ''
 
 # Authors
